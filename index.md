@@ -10,3 +10,6 @@ def counting(num):
     for i in range(num):
         print(i)
 ```
+- [x] First task
+- [ ] Second task
+- [ ] Third task
