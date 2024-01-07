@@ -5,3 +5,8 @@
 ##### Sample h5 header
 ###### Sample h6 header
 ![Image of a Smiley Face](https://upload.wikimedia.org/wikipedia/commons/4/49/Emoticon_Face_Smiley_GE.png)
+```python
+def counting(num):
+    for i in range(num):
+        print(i)
+```
